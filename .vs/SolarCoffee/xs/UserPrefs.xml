@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E1DD6D58-9541-48D0-9EFC-1972AD8458C4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SolarCoffee.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolarCoffee.Data/Class1.cs">
+    <Files>
+      <File FileName="SolarCoffee.Data/Class1.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SolarCoffee" expanded="True">
+            <Node name="SolarCoffee.Data" expanded="True">
+              <Node name="Class1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
