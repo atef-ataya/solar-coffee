@@ -1,15 +1,21 @@
-﻿<Properties StartupConfiguration="{E1DD6D58-9541-48D0-9EFC-1972AD8458C4}|Default">
+﻿<Properties StartupConfiguration="{9B0C35AA-2E9B-4553-BD61-031CD9615A57}|Default">
   <MonoDevelop.Ide.ItemProperties.SolarCoffee.Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SolarCoffee.Data/Class1.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolarCoffee.Web/Startup.cs">
     <Files>
-      <File FileName="SolarCoffee.Data/Class1.cs" Line="1" Column="1" />
+      <File FileName="SolarCoffee.Data/SolarDbContext.cs" Line="3" Column="17" />
+      <File FileName="SolarCoffee.Data/Models/Customer.cs" Line="8" Column="1" />
+      <File FileName="SolarCoffee.Web/Startup.cs" Line="31" Column="79" />
+      <File FileName="SolarCoffee.Web/appsettings.json" Line="3" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SolarCoffee" expanded="True">
             <Node name="SolarCoffee.Data" expanded="True">
-              <Node name="Class1.cs" selected="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="SolarCoffee.Web" expanded="True">
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -18,6 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SolarCoffee.Web PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

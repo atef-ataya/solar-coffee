@@ -1,0 +1,12 @@
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/bin/Debug/net5.0/SolarCoffee.Services.deps.json
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/bin/Debug/net5.0/SolarCoffee.Services.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/bin/Debug/net5.0/ref/SolarCoffee.Services.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/bin/Debug/net5.0/SolarCoffee.Services.pdb
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.csprojAssemblyReference.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.AssemblyInfoInputs.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.AssemblyInfo.cs
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.csproj.CoreCompileInputs.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/ref/SolarCoffee.Services.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.pdb

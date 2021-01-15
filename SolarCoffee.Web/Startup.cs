@@ -1,16 +1,11 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using SolarCoffee.Data;
 
 namespace SolarCoffee.Web
 {
@@ -28,10 +23,14 @@ namespace SolarCoffee.Web
         {
 
             services.AddControllers();
-            services.AddSwaggerGen(c =>
+
+            services.AddDbContext<SolarDbContext>(
+                options =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "SolarCoffee.Web", Version = "v1" });
-            });
+                options.EnableDetailedErrors();
+                options.UseNpgsql(Configuration.GetConnectionString("solar.dev"));
+            } );
+            
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

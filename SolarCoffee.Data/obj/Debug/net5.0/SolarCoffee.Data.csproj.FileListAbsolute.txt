@@ -1,0 +1,12 @@
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/bin/Debug/net5.0/SolarCoffee.Data.deps.json
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/bin/Debug/net5.0/SolarCoffee.Data.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/bin/Debug/net5.0/ref/SolarCoffee.Data.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/bin/Debug/net5.0/SolarCoffee.Data.pdb
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.AssemblyInfoInputs.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.AssemblyInfo.cs
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.csproj.CoreCompileInputs.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/ref/SolarCoffee.Data.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.pdb
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/obj/Debug/net5.0/SolarCoffee.Data.csprojAssemblyReference.cache
