@@ -1,27 +1,30 @@
 ﻿<Properties StartupConfiguration="{9B0C35AA-2E9B-4553-BD61-031CD9615A57}|Default">
   <MonoDevelop.Ide.ItemProperties.SolarCoffee.Test PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="SolarCoffee.Data/Models/SalesOrderItem.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SolarCoffee.Web/Serialization/ProductMapper.cs">
     <Files>
-      <File FileName="SolarCoffee.Data/SolarDbContext.cs" Line="3" Column="17" />
-      <File FileName="SolarCoffee.Data/Models/Customer.cs" Line="16" Column="2" />
-      <File FileName="SolarCoffee.Web/Startup.cs" Line="31" Column="79" />
-      <File FileName="SolarCoffee.Web/appsettings.json" Line="3" Column="15" />
-      <File FileName="SolarCoffee.Data/Models/Product.cs" Line="1" Column="1" />
-      <File FileName="SolarCoffee.Data/Models/ProductInventory.cs" Line="1" Column="1" />
-      <File FileName="SolarCoffee.Data/Models/ProductInventorySnapshot.cs" Line="1" Column="1" />
-      <File FileName="SolarCoffee.Data/Models/SalesOrder.cs" Line="1" Column="1" />
-      <File FileName="SolarCoffee.Data/Models/SalesOrderItem.cs" Line="1" Column="1" />
+      <File FileName="SolarCoffee.Web/Controllers/ProductController.cs" Line="25" Column="1" />
+      <File FileName="SolarCoffee.Web/Properties/launchSettings.json" Line="17" Column="33" />
+      <File FileName="SolarCoffee.Web/Startup.cs" Line="45" Column="51" />
+      <File FileName="SolarCoffee.Services/Product/ProductService.cs" Line="103" Column="1" />
+      <File FileName="SolarCoffee.Web/ViewModels/ProductModel.cs" Line="5" Column="27" />
+      <File FileName="SolarCoffee.Data/Models/Product.cs" Line="8" Column="1" />
+      <File FileName="SolarCoffee.Web/Serialization/ProductMapper.cs" Line="6" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SolarCoffee" expanded="True">
             <Node name="SolarCoffee.Data" expanded="True">
-              <Node name="Models" expanded="True">
-                <Node name="SalesOrderItem.cs" selected="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="SolarCoffee.Services" expanded="True">
+              <Node name="Product" expanded="True" />
+            </Node>
+            <Node name="SolarCoffee.Web" expanded="True">
+              <Node name="Serialization" expanded="True">
+                <Node name="ProductMapper.cs" selected="True" />
               </Node>
             </Node>
-            <Node name="SolarCoffee.Web" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -29,7 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.SolarCoffee.Web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.SolarCoffee.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

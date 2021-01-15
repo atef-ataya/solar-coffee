@@ -6,6 +6,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
 using SolarCoffee.Data;
+using SolarCoffee.Services.Product;
 
 namespace SolarCoffee.Web
 {
@@ -30,6 +31,9 @@ namespace SolarCoffee.Web
                 options.EnableDetailedErrors();
                 options.UseNpgsql(Configuration.GetConnectionString("solar.dev"));
             } );
+
+            /// Dependencies Injection, light weight state services for the instance of the product
+            services.AddTransient<IProductService, ProductService>();
             
         }
 
@@ -38,9 +42,9 @@ namespace SolarCoffee.Web
         {
             if (env.IsDevelopment())
             {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SolarCoffee.Web v1"));
+                //app.UseDeveloperExceptionPage();
+                //app.UseSwagger();
+                //app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "SolarCoffee.Web v1"));
             }
 
             app.UseHttpsRedirection();

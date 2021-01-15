@@ -10,3 +10,6 @@
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.dll
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/ref/SolarCoffee.Services.dll
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.pdb
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/bin/Debug/net5.0/SolarCoffee.Data.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/bin/Debug/net5.0/SolarCoffee.Data.pdb
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/Debug/net5.0/SolarCoffee.Services.csproj.CopyComplete

@@ -985,6 +985,19 @@
         "runtime": {
           "bin/placeholder/SolarCoffee.Data.dll": {}
         }
+      },
+      "SolarCoffee.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "SolarCoffee.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/SolarCoffee.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SolarCoffee.Services.dll": {}
+        }
       }
     }
   },
@@ -2556,6 +2569,11 @@
       "type": "project",
       "path": "../SolarCoffee.Data/SolarCoffee.Data.csproj",
       "msbuildProject": "../SolarCoffee.Data/SolarCoffee.Data.csproj"
+    },
+    "SolarCoffee.Services/1.0.0": {
+      "type": "project",
+      "path": "../SolarCoffee.Services/SolarCoffee.Services.csproj",
+      "msbuildProject": "../SolarCoffee.Services/SolarCoffee.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2571,6 +2589,7 @@
       "Newtonsoft.Json >= 12.0.3",
       "Npgsql.EntityFrameworkCore.PostgreSQL >= 5.0.1",
       "SolarCoffee.Data >= 1.0.0",
+      "SolarCoffee.Services >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
   },
@@ -2587,7 +2606,7 @@
       "outputPath": "/Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/atef/.nuget/NuGet/NuGet.Config"
+        "/Users/atef/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -2601,6 +2620,9 @@
           "projectReferences": {
             "/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/SolarCoffee.Data.csproj": {
               "projectPath": "/Users/atef/Documents/SolarCoffee/SolarCoffee.Data/SolarCoffee.Data.csproj"
+            },
+            "/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/SolarCoffee.Services.csproj": {
+              "projectPath": "/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/SolarCoffee.Services.csproj"
             }
           }
         }

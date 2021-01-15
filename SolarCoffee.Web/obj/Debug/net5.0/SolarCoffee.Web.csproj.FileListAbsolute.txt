@@ -37,8 +37,9 @@
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/bin/Debug/net5.0/System.IdentityModel.Tokens.Jwt.dll
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/bin/Debug/net5.0/SolarCoffee.Data.dll
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Web/bin/Debug/net5.0/SolarCoffee.Services.dll
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/bin/Debug/net5.0/SolarCoffee.Data.pdb
-/Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.csprojAssemblyReference.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Web/bin/Debug/net5.0/SolarCoffee.Services.pdb
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.GeneratedMSBuildEditorConfig.editorconfig
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.AssemblyInfoInputs.cache
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.AssemblyInfo.cs
@@ -54,3 +55,4 @@
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/ref/SolarCoffee.Web.dll
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.pdb
 /Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.genruntimeconfig.cache
+/Users/atef/Documents/SolarCoffee/SolarCoffee.Web/obj/Debug/net5.0/SolarCoffee.Web.csprojAssemblyReference.cache
