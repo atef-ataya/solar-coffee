@@ -6,6 +6,9 @@
 
   <ItemGroup>
     <Folder Include="Product\" />
+    <Folder Include="Inventory\" />
+    <Folder Include="Customer\" />
+    <Folder Include="Order\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SolarCoffee.Data\SolarCoffee.Data.csproj" />

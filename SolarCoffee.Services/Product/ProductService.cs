@@ -20,7 +20,7 @@ namespace SolarCoffee.Services.Product
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
-        ServiceResponse<Data.Models.Product> IProductService.ArchiveProduct(int id)
+        public ServiceResponse<Data.Models.Product> ArchiveProduct(int id)
         {
             try
             {
@@ -55,7 +55,7 @@ namespace SolarCoffee.Services.Product
         /// </summary>
         /// <param name="product"></param>
         /// <returns></returns>
-        ServiceResponse<Data.Models.Product> IProductService.CreateProduct(Data.Models.Product product)
+        public ServiceResponse<Data.Models.Product> CreateProduct(Data.Models.Product product)
         {
 
             try
@@ -97,7 +97,7 @@ namespace SolarCoffee.Services.Product
         /// Retrieves all Product from the database
         /// </summary>
         /// <returns></returns>
-        List<Data.Models.Product> IProductService.GetAllProducts()
+        public List<Data.Models.Product> GetAllProducts()
         {
             return _db.Products.ToList();
         }
@@ -106,7 +106,7 @@ namespace SolarCoffee.Services.Product
         /// </summary>
         /// <param name="id"></param>
         /// <returns></returns>
-        Data.Models.Product IProductService.GetProductById(int id)
+        public Data.Models.Product GetProductById(int id)
         {
             return _db.Products.Find(id);
         }
