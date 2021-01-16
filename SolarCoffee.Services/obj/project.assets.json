@@ -1853,7 +1853,7 @@
       "outputPath": "/Users/atef/Documents/SolarCoffee/SolarCoffee.Services/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/atef/.config/NuGet/NuGet.Config"
+        "/Users/atef/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -2,25 +2,27 @@
   <MonoDevelop.Ide.ItemProperties.SolarCoffee.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="SolarCoffee.Services/Inventory/InventoryService.cs">
     <Files>
-      <File FileName="SolarCoffee.Services/Order/OrderService.cs" Line="113" Column="29" />
-      <File FileName="SolarCoffee.Services/Inventory/InventoryService.cs" Line="99" Column="30" />
+      <File FileName="SolarCoffee.Web/Controllers/OrderController.cs" Line="52" Column="25" />
+      <File FileName="SolarCoffee.Web/Controllers/ProductController.cs" Line="1" Column="1" />
+      <File FileName="SolarCoffee.Web/Controllers/InventoryController.cs" Line="53" Column="34" />
+      <File FileName="SolarCoffee.Web/Controllers/CustomerController.cs" Line="15" Column="60" />
+      <File FileName="SolarCoffee.Web/ViewModels/ProductInventoryModel.cs" Line="9" Column="36" />
+      <File FileName="SolarCoffee.Web/ViewModels/ShipmentModel.cs" Line="7" Column="30" />
+      <File FileName="SolarCoffee.Services/Inventory/InventoryService.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="SolarCoffee" expanded="True">
-            <Node name="SolarCoffee.Data" expanded="True">
-              <Node name="Models" expanded="True" />
-            </Node>
+            <Node name="SolarCoffee.Data" expanded="True" />
             <Node name="SolarCoffee.Services" expanded="True">
               <Node name="Inventory" expanded="True">
                 <Node name="InventoryService.cs" selected="True" />
               </Node>
-              <Node name="Order" expanded="True" />
             </Node>
             <Node name="SolarCoffee.Web" expanded="True">
               <Node name="Controllers" expanded="True" />
-              <Node name="Serialization" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
             </Node>
           </Node>
         </State>
